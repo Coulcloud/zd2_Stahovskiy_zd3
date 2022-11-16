@@ -1,4 +1,4 @@
-package com.example.zd2_kolyasnikov
+package com.example.zd2_Stahovskiy
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,6 +1,5 @@
-package com.example.zd2_kolyasnikov
+package com.example.zd2_Stahovskiy
 
-import android.app.ProgressDialog.show
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
@@ -9,11 +8,10 @@ import android.view.ViewGroup
 import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.ViewModel
-import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.zd2_kolyasnikov.R
 
 private const val TAG = "CrimeListFragment";
 

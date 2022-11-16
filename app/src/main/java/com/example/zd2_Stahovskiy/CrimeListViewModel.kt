@@ -1,4 +1,4 @@
-package com.example.zd2_kolyasnikov
+package com.example.zd2_Stahovskiy
 
 import androidx.lifecycle.ViewModel
 

@@ -1,7 +1,8 @@
-package com.example.zd2_kolyasnikov
+package com.example.zd2_Stahovskiy
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.zd2_kolyasnikov.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
